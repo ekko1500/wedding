@@ -8,9 +8,9 @@ import NavBar from "@/components/NavBar";
 import Slider from "@/components/Slider";
 import Map from "@/components/Map";
 // import Gallery from "../components/Gallery";
-import { ThemeProvider, Carousel } from "@material-tailwind/react";
+import { ThemeProvider } from "@material-tailwind/react";
 import Time from "@/components/Time";
-export { Carousel };
+
 export default function Home() {
   return (
     <ThemeProvider>
