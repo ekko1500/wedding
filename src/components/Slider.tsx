@@ -1,5 +1,6 @@
 import { image11, image16, image28, image32, imageSlide } from "@/datas/Images";
-import { Carousel } from "../app/page";
+import { Carousel } from "@material-tailwind/react";
+// import { Carousel } from "../app/page";
 import Image from "next/image";
 
 export default function Slider() {
